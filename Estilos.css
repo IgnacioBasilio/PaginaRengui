@@ -11,7 +11,8 @@ header{
 header h1{
     display: inline;
     color: wheat;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: initial;
+    text-shadow: #4E332B 0px 5px 10px;
 }
 header figure{
     display: inline;
